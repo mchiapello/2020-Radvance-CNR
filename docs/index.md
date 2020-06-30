@@ -1,15 +1,15 @@
-<center><h1>Universita' degli Studi di Torino</h1>
-<p>Between the 8th and the 11th of June</p>
-<p>From 2pm to 6pm</p>
-<p>Online course</p>
+<center><h1>Istituto per la protezione sostenibile delle piante</h1>
+<center><h3>Consiglio Nazionale delle Ricerche</h3>
+<p>September 2020</p>
+<p>Full day</p>
 </center>
 
 ---
 
 <center>
-<h2><p>Data Science with UNIX and R</p></h2>
+<h2><p>Advance R course</p></h2>
 <h3>Instructors</h3>
-<p>Stefano Ghignone - Marco Chiapello</p>
+<p>Dr. Marco Chiapello</p>
 </center>
 
 ---
@@ -17,53 +17,34 @@
 <center><h2><p>General Information</p></h2></center>
 
 
-**PhD toolbox workshop** is for any phD student who has data to analyze, no prior computational experience is required. This hands-on workshop teaches basic concepts, skills and tools for working more effectively with data.
+**R Advance course** is for any IPSP employers who has prior computational experience with R. This hands-on workshop teaches advance concepts, skills and tools for working more effectively with data.
 
-**Slack**: [Slack](https://phdtoolbox2020.slack.com/)
+**Pre-requisites**: 1. Basic knowledge of R | 2. Weekly/Monthly use of R | 3. Developed at least 2 analysis in R | 4. Basic knowledge of UNIX command | 5. Notions of file system navigation
 
-**Docker images**: [dockerhub](https://hub.docker.com/repository/docker/phdtoolboxcourse/2020_course)
+**Register**: [Form](https://forms.gle/D9cV9eKr49UhtboS6)
+
+**Slack**: [Slack](https://radvance-cnr.slack.com)
 
 <center><h2><p>Schedule</p></h2></center>
 
-- Day 1
+- Day 1 THEORY
 
 	-  [Reproducible research](https://phd-toolbox-course.github.io/2020_PhD_Toolbox_course/01-RR.html)
 
-	-  [UNIX](https://github.com/PhD-Toolbox-course/2020_PhD_Toolbox_course/blob/master/lessons/02.UNIX.pdf)
-
-- Day2
-
-	-  [UNIX](https://github.com/PhD-Toolbox-course/2020_PhD_Toolbox_course/blob/master/lessons/02.UNIX.pdf)
+- Day2 PRACTICE
 
 	-  [Introduction to R](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html)
-
-
-- Day3
-
-	-  [Starting with data](https://datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)
-
-	-  [Manipulating and analyzing data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
-
-- Day4
-
-	-  [Manipulating and analyzing data](https://datacarpentry.org/R-ecology-lesson/03-dplyr.html)
-
-    -  [Data visualisation](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)
 
 
 ### Open-source
 
 We will only use open-source software and all the course's slides and materials will be publicly available on GitHub.
 
-### Wiki page
-
-On the [WIKI page](https://github.com/PhD-Toolbox-course/2020_PhD_Toolbox_course-/wiki/Extra-contents) you can find useful links and extra contents.
-
 ---
 
 <center><h2><p>Computer equipment</p></h2></center>
 
-Since the course is online, you need to use your own laptop. You have to install [docker](https://docs.docker.com/). Detailed information on the software installation are provided on Slack in "#instruction" channel. Please make sure to install it before the start of your workshop. If you have any problem please, contact the instructors on Slack.
+You need to use your own laptop. You have to install R, RStudio and the needed packages. Detailed information on the software installation are provided on Slack in "#instruction" channel. Please make sure to install everything before the start of your workshop. If you have any problem please, contact the instructor on Slack.
 
 ---
 
