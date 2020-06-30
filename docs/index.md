@@ -1,23 +1,21 @@
 <center><h1>Istituto per la protezione sostenibile delle piante</h1>
 <center><h3>Consiglio Nazionale delle Ricerche</h3>
 <p>September 2020</p>
-<p>Full day</p>
 </center>
 
 ---
 
 <center>
-<h2><p>Advance R course</p></h2>
+<h2>Advance R course</h2>
 <h3>Instructors</h3>
 <p>Dr. Marco Chiapello</p>
 </center>
 
 ---
 
-<center><h2><p>General Information</p></h2></center>
+<center><h2>General Information</h2></center>
 
-
-**R Advance course** is for any IPSP employers who has prior computational experience with R. This hands-on workshop teaches advance concepts, skills and tools for working more effectively with data.
+<p>**R Advance course** is for any IPSP employers who has prior computational experience with R. This hands-on workshop teaches advance concepts, skills and tools for working more effectively with data.</p>
 
 **Pre-requisites**: 
 
@@ -35,7 +33,7 @@
 
 **Slack**: [Slack](https://radvance-cnr.slack.com)
 
-<center><h2><p>Schedule</p></h2></center>
+<center><h2>Schedule</h2></center>
 
 - Day 1 THEORY
 
