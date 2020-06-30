@@ -5,15 +5,3 @@
 
 ---
 
-<center>
-<h2>Advance R course</h2>
-<h3>Instructors</h3>
-<p>Dr. Marco Chiapello</p>
-</center>
-
----
-
-<center><h2>General Information</h2></center>
-
-**R Advance course** is for any IPSP employers who has prior computational experience with R. This hands-on workshop teaches advance concepts, skills and tools for working more effectively with data.
-
