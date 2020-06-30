@@ -17,23 +17,6 @@
 
 **R Advance course** is for any IPSP employers who has prior computational experience with R. This hands-on workshop teaches advance concepts, skills and tools for working more effectively with data.
 
-**Pre-requisites**: 
-
-
-1. Basic knowledge of R 
-
-
-1. Weekly/Monthly use of R 
-
-
-1. Developed at least 2 analysis in R
-
-
-1. Basic knowledge of UNIX command
-
-
-1. Notions of file system navigation
-
 
 **Register**: [Form](https://forms.gle/D9cV9eKr49UhtboS6)
 
